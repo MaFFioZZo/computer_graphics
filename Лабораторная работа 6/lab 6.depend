@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684157580 source:y:\cg\lab 6\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
